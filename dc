@@ -12,9 +12,13 @@
          {
             "url": "http://tvbox.王二小放牛娃.xyz",
             “name”：“放牛娃”
-        }， }，                                                               
+        }，
+{
+            "url": "http://ok321.top/tv",
+            "name": " ok线路"
+        }，
         {
-            "url": "https://raw.kkgithub.com/liu673cn/box/main/m.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🥚老刘备"
         }，
         {
@@ -26,11 +30,11 @@
             "name": "菜妮丝频道"
         }，
         {
-            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            “网址”：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
             "name": " 🍳香雅情"
         }，  
         {
-            “网址”：“https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json”，
+            “网址”：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
             "name": "🐹南风线路"
         }，
         {
@@ -54,13 +58,7 @@
             "url": "https://szyyds.cn/tv/x.json",
             "name": "💢小马线路"
         }，  
-        {
-            "url": "https://raw.kkgithub.com/liu673cn/fm/main/m.json",
-            “名称”：“🥨fm-JS”
-        }，  
-
-
-
+      
 
 
         {
@@ -78,16 +76,13 @@
             "name": " 霜辉月明py"
         }， }，  
 	
+       
         {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0822.json",
-            "name": " ok线路"
-        }，
-        {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
             "name": " PG频道"
         }，
         {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": " 高山JS"
         }，
         {
@@ -103,36 +98,6 @@
             "name": "🐹潇洒线路"
         }，
 
-        {
-            "url": "https://cn.kstore.space/download/2883/0110.txt",
-            "name": "🐹蚂蚁论坛线路"
-        }，                                
-        {
-            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
-            "name": "🐹月光宝盒"
-        }，
-        {
-            "url": "http://meowtv.cn/tv",
-            "name": "🐹喵影视线路"
-        }，
-
-        {
-            "url": "https://jihulab.com/lxhfans/TV/-/raw/master/tv.txt",
-            “名称”：“🐹奇奇线路”
-        }，                  
-        {
-            "url": "http://8.210.232.168/xc.json",
-            “名称”：“🐹星辰线路”
-        }，          
-     
-        {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "🐹运输车线路"
-        }，
-        {
-            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-            "name": "🐹夜猫子"
-        }， 		
         {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🐹高天流云"
