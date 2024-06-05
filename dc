@@ -1,6 +1,6 @@
 
 {
-    "urls"：[
+    "urls":[
         {
             "url": "http://饭太硬.com/tv",
             "name": " 🥨饭太硬"
@@ -11,30 +11,27 @@
         }，               
          {
             "url": "http://tvbox.王二小放牛娃.xyz",
-            "name"：“放牛娃”
+            "name":"牛娃"
         }，
 {
             "url": "http://ok321.top/tv",
-            "name": " ok线路"
+            "name": "ok线路"
         }，
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🥚老刘备"
         }，
-        {
-            "url": "https://100km.top/0",
-             "name"：“🥓Ray线路”
-        }，
+      
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝频道"
         }，
         {
-            "url"：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
-            "name": " 🍳香雅情"
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name":" 🍳香雅情"
         }，  
         {
-            "url"：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json",
             "name": "🐹南风线路"
         }，
         {
@@ -63,12 +60,12 @@
 
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name"：“🥨神器推送”
+            "name":"🥨神器推送"
         }，   
 
         {
             "url": "https://xhdwc.tk/0",
-            “name”：“🥓Ray0线路”
+            “name”:"🥓Ray0线路"
         }，
 
      
@@ -123,7 +120,7 @@
   
           {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-            "name"：“🏄️猫爪线路”
+            "name":"🏄️猫爪线路"
         }
     ]
 }
