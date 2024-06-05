@@ -1,6 +1,6 @@
 
 {
-    “url”：[
+    “urls”：[
         {
             "url": "http://饭太硬.com/tv",
             "name": " 🥨饭太硬"
@@ -23,18 +23,18 @@
         }，
         {
             "url": "https://100km.top/0",
-            “名称”：“🥓Ray线路”
+            “nam”：“🥓Ray线路”
         }，
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝频道"
         }，
         {
-            “name”：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
+            “url”：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
             "name": " 🍳香雅情"
         }，  
         {
-            “name”：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
+            “url”：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
             "name": "🐹南风线路"
         }，
         {
