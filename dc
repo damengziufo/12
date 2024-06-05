@@ -1,6 +1,6 @@
 
 {
-    “urls”：[
+    "urls"：[
         {
             "url": "http://饭太硬.com/tv",
             "name": " 🥨饭太硬"
@@ -11,7 +11,7 @@
         }，               
          {
             "url": "http://tvbox.王二小放牛娃.xyz",
-            “name”：“放牛娃”
+            "name"：“放牛娃”
         }，
 {
             "url": "http://ok321.top/tv",
@@ -23,18 +23,18 @@
         }，
         {
             "url": "https://100km.top/0",
-            “nam”：“🥓Ray线路”
+             "name"：“🥓Ray线路”
         }，
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "菜妮丝频道"
         }，
         {
-            “url”：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
+            "url"：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
             "name": " 🍳香雅情"
         }，  
         {
-            “url”：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
+            "url"：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
             "name": "🐹南风线路"
         }，
         {
@@ -63,7 +63,7 @@
 
         {
             "url": "https://神器每日推送.tk/pz.json",
-            “name”：“🥨神器推送”
+            "name"：“🥨神器推送”
         }，   
 
         {
@@ -102,18 +102,7 @@
             "url": "http://sx.liuyun.wang:88/img",
             "name": "🐹神仙线路"
         }，
-        {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-            “name”：“💎不良帅线路”
-        }，         
-        {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            “name”：“💎乱世线路”
-        }，
-        {
-            "url": "https://www.macms.pro/box/3.json",
-            “name”：“💎万达线路”
-        }，
+       
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
             "name": "💎一木线路"
@@ -134,7 +123,7 @@
   
           {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-            “name”：“🏄️猫爪线路”
+            "name"：“🏄️猫爪线路”
         }
     ]
 }
