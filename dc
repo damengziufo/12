@@ -1,6 +1,6 @@
 
 {
-    “网址”：[
+    “url”：[
         {
             "url": "http://饭太硬.com/tv",
             "name": " 🥨饭太硬"
@@ -30,11 +30,11 @@
             "name": "菜妮丝频道"
         }，
         {
-            “网址”：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
+            “name”：“https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json”，
             "name": " 🍳香雅情"
         }，  
         {
-            “网址”：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
+            “name”：“https://ghproxy.net/https://raw.githubusercontent.com/yoursmile77/TVBox/main/XC.json”，
             "name": "🐹南风线路"
         }，
         {
@@ -68,7 +68,7 @@
 
         {
             "url": "https://xhdwc.tk/0",
-            “名字”：“🥓Ray0线路”
+            “name”：“🥓Ray0线路”
         }，
 
      
@@ -134,7 +134,7 @@
   
           {
             "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-            “名称”：“🏄️猫爪线路”
+            “name”：“🏄️猫爪线路”
         }
     ]
 }
