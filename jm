@@ -14,25 +14,8 @@
 			"order_num": 0,
 			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/damengziufo/hipy-server/master/app/t4/files/drpy_js/剧圈圈[自动].js"
 		},
- {
-            "key": "豆瓣",
-            "name": "豆瓣",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
-{
-			"key": "hipy_js_星辰[优]",
-			"name": "星辰",
-			"type": 3,
-			"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/damengziufo/hipy-server/master/app/t4/files/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/damengziufo/hipy-server/master/app/t4/files/drpy_js/星辰[优].js"
-		},
-
+{"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+{"key": "csp_XYQHikerAL_玩偶哥哥","name":"玩偶哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/玩偶哥哥.json"},
 {
 			"key": "hipy_js_南瓜影视[优]",
 			"name": "南瓜影视",
