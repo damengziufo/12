@@ -1,11 +1,21 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/damengziufo/12/main/spider.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
        
-      {
+     {
+            "key": "酷看",
+            "name": "首页",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+ {
 			"key": "hipy_js_剧圈圈[自动]",
-			"name": "首页",
+			"name": "剧圈圈",
 			"type": 3,
 			"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/damengziufo/hipy-server/master/app/t4/files/drpy_libs/drpy2.min.js",
 			"searchable": 1,
