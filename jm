@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
        
@@ -102,36 +102,6 @@
 			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/damengziufo/hipy-server/master/app/t4/files/drpy_js/6V新版[磁].js"
 		},
 
-        {
-            "key": " 影探VIP",
-            "name": " 影探VIP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
-        },
-      
-        {
-            "key": "厂长资源",
-            "name": "厂长资源",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.czys.top/"
-        },
-        {
-            "key": "低端影视",
-            "name": "低端影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
       
        
        
@@ -149,20 +119,8 @@
 			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/damengziufo/hipy-server/master/app/t4/files/drpy_js/88看球[球].js"
 		},
 
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
-        }
+   {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"}
+     
     ],
     "parses": [
         {
